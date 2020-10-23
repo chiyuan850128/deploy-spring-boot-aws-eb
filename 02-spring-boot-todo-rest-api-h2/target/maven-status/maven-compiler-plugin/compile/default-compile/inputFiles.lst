@@ -1,0 +1,6 @@
+/Users/chiyuanding/deploy-spring-boot-aws-eb/deploy-spring-boot-aws-eb-master/02-spring-boot-todo-rest-api-h2/src/main/java/com/in28minutes/rest/webservices/restfulwebservices/todo/TodoJpaRepository.java
+/Users/chiyuanding/deploy-spring-boot-aws-eb/deploy-spring-boot-aws-eb-master/02-spring-boot-todo-rest-api-h2/src/main/java/com/in28minutes/rest/webservices/restfulwebservices/RestfulWebServicesApplication.java
+/Users/chiyuanding/deploy-spring-boot-aws-eb/deploy-spring-boot-aws-eb-master/02-spring-boot-todo-rest-api-h2/src/main/java/com/in28minutes/rest/webservices/restfulwebservices/helloworld/HelloWorldController.java
+/Users/chiyuanding/deploy-spring-boot-aws-eb/deploy-spring-boot-aws-eb-master/02-spring-boot-todo-rest-api-h2/src/main/java/com/in28minutes/rest/webservices/restfulwebservices/todo/Todo.java
+/Users/chiyuanding/deploy-spring-boot-aws-eb/deploy-spring-boot-aws-eb-master/02-spring-boot-todo-rest-api-h2/src/main/java/com/in28minutes/rest/webservices/restfulwebservices/helloworld/HelloWorldBean.java
+/Users/chiyuanding/deploy-spring-boot-aws-eb/deploy-spring-boot-aws-eb-master/02-spring-boot-todo-rest-api-h2/src/main/java/com/in28minutes/rest/webservices/restfulwebservices/todo/TodoJpaResource.java
